@@ -5,7 +5,7 @@
 
 	<groupId>com.gcit</groupId>
 	<artifactId>lms</artifactId>
-	<version>0.0.1.1<version>
+	<version>0.0.1.2<version>
 	<packaging>jar</packaging>
 
 	<name>lms</name>
